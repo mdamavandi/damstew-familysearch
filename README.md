@@ -22,7 +22,7 @@ Here's how we're progressing:
 ## Entertainment Apps
 There are some fun things we'd like to build as well.
 
-| **Ready for Use** | **In Development** | **Ideas for the Future (possibilities)**
--|-|-|-
+ | **Ready for Use** | **In Development** | **Ideas for the Future (possibilities)**
+--------|----------|------------|----------
 Tell Me a Story | | | x
-The Quiz | | |
+The Quiz | | | x
