@@ -1,6 +1,6 @@
 # FamilySearch Products
 
-At present we have two areas of focus for our apps... [Tools](#Tool-Apps) and [Entertainment](#Entertainment-Apps)
+At present we have two areas of focus for our apps... [Tools](#tool-apps) and [Entertainment](#entertainment-apps)
 
 ## Tool Apps
 
