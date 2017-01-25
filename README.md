@@ -7,7 +7,7 @@ At present we have two areas of focus for our apps... [Tools](#tool-apps) and [E
 These tools are meant to help the FamilySearch user with discovering information that may not be easy to discover when using FamilySeach.org, such as the named relationship between themselves and those they are researching. Here's the state of things on our radar:
 
  | **Ready for Use** | **In Development** | **Ideas for the Future (possibilities)**
--|-|-|-
+---|---|---|---
 [How Am I Related?](#how-am-i-related) | | x |
 
 ### How Am I Related
