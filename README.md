@@ -8,7 +8,7 @@ These tools are meant to help the FamilySearch user with discovering information
 
  | **Ready for Use** | **In Development** | **Ideas for the Future (possibilities)**
 -|-|-|-
- [How Am I Related?](#how-am-i-related) | | x |
+[How Am I Related?](#how-am-i-related) | | x |
 
 ### How Am I Related
 Allow a FamilySearch.org user to discover their relationship to another person.
