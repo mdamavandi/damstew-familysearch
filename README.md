@@ -8,7 +8,8 @@ These tools are meant to help the FamilySearch user with discovering information
 
  | **Ready for Use** | **In Development** | **Ideas for the Future (possibilities)**
 ---|---|---|---
-[How Am I Related?](#how-am-i-related) | | x |
+[How Am I Related?](#how-am-i-related) | | x | 
+[Where's The Work Done?](#where-is-the-work-done) | | | x 
 
 ### How Am I Related
 Allow a FamilySearch.org user to discover their relationship to another person.
@@ -18,6 +19,9 @@ Here's how we're progressing:
 - [ ] Allow user to connect to their FamilySearch profile
 - [ ] Allow user to enter a person ID
 - [ ] Display the user's relationship to the person
+
+### Where Is The Work Done
+Determine where others contributing to the same name are located.
 
 ## Entertainment Apps
 There are some fun things we'd like to build as well.
